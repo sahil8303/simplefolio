@@ -7,6 +7,7 @@
   <br>
 </h2>
 
+Demo: https://whimsical-ganache-fc87fe.netlify.app/
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
